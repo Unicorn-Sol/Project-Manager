@@ -8,7 +8,7 @@ import android.webkit.MimeTypeMap
 
 object Constants {
 
-    
+
     const val USERS: String = "users"
 
     // This  is used for the collection name for USERS.
